@@ -1,6 +1,7 @@
 # Django REST Framework CRUD proyect
 
 A simple rest API with Django REST Framework
+###### This is a project based on the YouTube tutorial of Fazt
 
 ### Requirements
 
